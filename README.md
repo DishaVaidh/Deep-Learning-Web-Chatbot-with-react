@@ -1,5 +1,5 @@
 # Deep-Learning-Web-Chatbot-with-react
-##Desciption
+## Desciption
 Created an web application using python, React.js and Deep learning to create a chatbot which responds according to
 training data.The application responds the message according to the input by the user.
 Processed user inputted information in the back-end of the app to return chatbot response based on the text present in
