@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0"
+  },
+  "name": "chatbot-backend",
+  "version": "1.0.0",
+  "description": "This is created for integration of python with node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
