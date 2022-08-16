@@ -12,16 +12,14 @@ Python, React, Deep learning(Torch), Node, NLP
 
 
 ## system requirements
-windows 7
-Python 3.10
-Node version 16
-60GB HDD
-2 GB RAM
+windows 7,
+Python 3.10,
+Node version 16,
 Chrome Browser
 
 ## Installations
-python -m pip install numpy
-python -m pip install torch
-python -m pip install pymongo
-python -m pip install nltk
+python -m pip install numpy,
+python -m pip install torch,
+python -m pip install pymongo,
+python -m pip install nltk,
 npm i(in both backend and frontend)
